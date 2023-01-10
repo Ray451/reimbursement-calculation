@@ -8,8 +8,7 @@ class project
 	LOW_TRAVEL = 35
 	LOW_FULL = 75
 	HIGH_TRAVEL = 45
-	HIGH_FULL = 85
-	
+	HIGH_FULL = 85	
 	attr_accessor :travel
 	attr_accessor :full
 	attr_accessor :first

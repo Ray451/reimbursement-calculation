@@ -47,4 +47,5 @@ def calculate(set)
 	end
 
 	calendar.values.sum	
+	byebug
 end
